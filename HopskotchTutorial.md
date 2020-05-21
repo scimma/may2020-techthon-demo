@@ -157,4 +157,4 @@ pip3 install -e .
 ```
 hop-email subscribe kafka://dev.hop.scimma.org/email-alerts -F ../config.conf -e -E your_email@address
 ```
-You will receive the message an email at the address you specified with `-E`.
+You will receive the message as an email at the address you specified with `-E`.
