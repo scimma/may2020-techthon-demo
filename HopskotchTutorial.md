@@ -17,7 +17,7 @@
 Reminder: you must have Python version >= 3.6 installed. If using `conda`, python 3.7 is required at the moment.
 
 To install `hop-client`, you must have either `pip` or `conda`. This tutorial also uses `curl`. If you're not using `conda`, here are some hints on how to install these on some common Linux systems:
-* Debian:
+* Debian (including Ubuntu):
   ```
    sudo apt-get update && sudo apt-get install python3-pip curl
    ```
